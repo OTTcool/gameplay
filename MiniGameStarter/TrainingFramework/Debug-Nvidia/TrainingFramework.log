@@ -1,1 +1,41 @@
-﻿  TrainingFramework.vcxproj -> E:\THUCTAP\MiniGameStarter\MiniGameStarter\BIN-Nvidia\TrainingFramework.exe
+﻿  GSPlay.cpp
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(84,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(84,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(131,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(358,4): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(420,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(420,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(425,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(425,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(431,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(431,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(437,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(437,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(443,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(443,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(449,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(449,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(455,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(455,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xutility(149,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2018): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[1],TextColor,double>(_Ty &,std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[1],TextColor &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2730): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[1],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[1],TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2730): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[1],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[1],TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\TrainingFramework\src\GameStates\GSPlay.cpp(141): message : see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[1],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[1],TextColor &&,double &&)' being compiled
+  TrainingFramework.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\BIN-Nvidia\TrainingFramework.exe

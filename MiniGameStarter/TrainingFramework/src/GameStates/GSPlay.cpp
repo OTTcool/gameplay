@@ -35,7 +35,7 @@ void GSPlay::Init()
 	m_background->SetSize(Globals::screenWidth, Globals::screenHeight);
 
 	//tile
-	std::ifstream fileInput("TileMap.txt");
+	std::ifstream fileInput("..\\Data\\TileMap.txt");
 	int i = 0;
 	while (!fileInput.eof())
 	{

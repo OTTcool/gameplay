@@ -1,3 +1,9 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1553,5): warning MSB8012: TargetPath(E:\THUCTAP\MiniGameStarter\MiniGameStarter\BIN-Nvidia\Utilities.lib) does not match the Library's OutputFile property value (E:\THUCTAP\MiniGameStarter\MiniGameStarter\BIN-Nvidia\UtilitiesD.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+﻿  esShader.cpp
+  esUtil.cpp
+  esUtil_win.cpp
+  CMath.cpp
+  TGA.cpp
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1553,5): warning MSB8012: TargetPath(C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\BIN-Nvidia\Utilities.lib) does not match the Library's OutputFile property value (C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\BIN-Nvidia\UtilitiesD.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1555,5): warning MSB8012: TargetName(Utilities) does not match the Library's OutputFile property value (UtilitiesD). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
-  Utilities.vcxproj -> E:\THUCTAP\MiniGameStarter\MiniGameStarter\BIN-Nvidia\Utilities.lib
+  Utilities.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\gameplay\MiniGameStarter\BIN-Nvidia\Utilities.lib
